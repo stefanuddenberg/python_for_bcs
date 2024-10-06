@@ -47,7 +47,7 @@ Office Hours: Monday 2pm-4pm, Psychology 731
 - XXX
   - Ph.D. Student in XXX Psychology
   - University of Illinois at Urbana-Champaign
-  - E-mail: azf2@illinois.edu
+  - E-mail: XXX@illinois.edu
   - Office Hours: Friday 3pm-5pm, Psychology XXX
 
 ## 2. Course Description and Learning Objectives
