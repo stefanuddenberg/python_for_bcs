@@ -72,16 +72,16 @@ Programming for Cognitive Science has three primary learning objectives:
 
 ### Grade Components
 
-- Labs: 45%
+- Labs: 40%
 - Homework: 30%
 - Final Project: 20%
-- Participation and Attendance: 5%
+- Participation and Attendance: 10%
 - Bonus Points for Final Project: up to 2% plus possible extension (individual action)
 - Bonus Points for Course Feedback: up to 2% (collective action)
 
 I am aware that the above numbers add up to 104%; the bonus points are explained in greater detail below.
 
-### Labs — 45%
+### Labs — 40%
 
 Each week we will be spending a considerable portion of our lab time working on various lab exercises. Each lab
 assignment is one of the final sections of each chapter in the textbook. Lab assignments should be turned in each week
@@ -104,10 +104,10 @@ the group, the higher the expectations for your project.
 
 XXX More info on final project goes here — Check Jaime's notes on Canvas for more details XXX
 
-### Participation and Attendance — 5%
+### Participation and Attendance — 10%
 
-Participation and attendance is 5% of your grade. This includes being present for lab, participating in discussions, and
-coming to office hours.
+Participation and attendance is 10% of your grade. This includes being present for lab, participating in discussions,
+and coming to office hours.
 
 ### Bonus Points for Final Project — up to 2% (plus possible extension)
 
@@ -152,7 +152,9 @@ selecting "Sign-Up for an Academic Screening" at the bottom of the page.
 
 ## 6. Class Schedule
 
-### Week 1: Jan 21 & Jan 23
+### Week 1 — "Hello, World!" Starting your Python journey.
+
+Dates: Jan 21 & Jan 23
 
 Topics:
 
@@ -167,7 +169,9 @@ Assignments:
 - [CH1: Basic Python Commands](ebook/CH01/1.0.%20Python%20Statements%20&%20Expressions.md)
 - [Lab 1](ebook/CH01/1.8.%20Lab%201.md) (due Jan 24 by 5pm)
 
-### Week 2: Jan 28 & Jan 30
+### Week 2 — Learning to loop, live: Making the machine repeat **your**self, so you don't have to
+
+Dates: Jan 28 & Jan 30
 
 Topics:
 
@@ -180,7 +184,9 @@ Assignments:
 - [CH2: Loops, Sequences, and IO](ebook/CH02/2.0%20The%20For%20Loop.md)
 - [Lab 2](ebook/CH02/2.10.%20Lab%202.md) (due Jan 30 by 5pm)
 
-### Week 3: Feb 4 & Feb 6
+### Week 3 — Abstract patterns solve concrete problems: Functions as everyday problem-solving tools
+
+Dates: Feb 4 & Feb 6
 
 Topics:
 
@@ -194,7 +200,9 @@ Assignments:
 - [Lab 3](ebook/CH03/3.6.%20Lab%203.md) (due Feb 7 by 5pm)
 - Homework 1 (due Feb 10 by 5pm)
 
-### Week 4: Feb 11 & Feb 13
+### Week 4 — Staying organized so your data can spark joy: Data structures and sequencing
+
+Dates: Feb 11 & Feb 13
 
 Topics:
 
@@ -207,20 +215,24 @@ Assignments:
 - [CH4: Dictionaries and Sets](ebook/CH04/4.0.%20Sets.md)
 - [Lab 4](ebook/CH04/4.4.%20Lab%204.md) (due Feb 14 by 5pm)
 
-### Week 5: Feb 18 & Feb 20
+### Week 5 — Want to fly? Just `import antigravity`: Building on the backs of giants with core and third-party modules
+
+Dates: Feb 18 & Feb 20
 
 Topics:
 
 - Core Python Modules
 - Installing Add On Modules
-- Numpy
+- NumPy
 
 Assignments:
 
-- [CH5: Modules (especially Numpy)](ebook/CH05/5.0.%20Core%20Python%20Modules.md)
+- [CH5: Modules (especially NumPy)](ebook/CH05/5.0.%20Core%20Python%20Modules.md)
 - [Lab 5](ebook/CH05/5.5.%20Lab%205.md) (due Feb 21 by 5pm)
 
-### Week 6: Feb 25 & Feb 27
+### Week 6 — In a `Class` of its own: Working with objects to solve complex problems
+
+Dates: Feb 25 & Feb 27
 
 Topics:
 
@@ -234,20 +246,25 @@ Assignments:
 - [Lab 6](ebook/CH06/6.5.%20Lab%206.md) (due Feb 28 by 5pm)
 - [Homework 2](ebook/CH06/6.6.%20Homework%202.md) (due Mar 3 by 5pm)
 
-### Week 7: Mar 4 & Mar 6
+### Week 7 — "Make it work, make it right, make it fast": Best practices and version control
+
+Dates: Mar 4 & Mar 6
 
 Topics:
 
-- Good Programming Practices
+- Good Programming Techniques
 - Using GitHub
 
 Assignments:
 
+- [CH8: Good Programming Techniques](ebook/CH08/8.0.%20Good%20Programming%20Techniques.md)
 - [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) from MIT's "The Missing Semester of Your CS Education"
   - Just the reading; everything else is optional
 - Project Check-in 1 (due Mar 7 by 5pm)
 
-### Week 8: Mar 11 & Mar 13
+### Week 8 — 🎵 Buttons and boxes and sliders in action: Graphics for users and their satisfaction 🎵
+
+Dates: Mar 11 & Mar 13
 
 Topics:
 
@@ -261,7 +278,9 @@ Assignments:
 
 ### Spring Break Mar 15-23
 
-### Week 9: Mar 25 & Mar 27
+### Week 9 — From idea to implementation: Building an experiment from scratch
+
+Dates: Mar 25 & Mar 27
 
 Topics:
 
@@ -273,7 +292,9 @@ Assignments:
 - [CH13: Programming Experiments](ebook/CH13/)
 - [Lab 13](ebook/CH13/13.6.%20Lab%2013.md) (due Mar 28 by 5pm)
 
-### Week 10: Apr 1 & Apr 3
+### Week 10 — Data so good you can almost frame it: Analysis with Pandas
+
+Dates: Apr 1 & Apr 3
 
 Topics:
 
@@ -285,7 +306,9 @@ Assignments:
 - [CH14: Data Science](ebook/CH14/)
 - Project Check-in 2 (due Apr 4 by 5pm)
 
-### Week 11: Apr 8 & Apr 10
+### Week 11 — Show, don't tell: Storytelling via data visualizations
+
+Dates: Apr 8 & Apr 10
 
 Topics:
 
@@ -299,7 +322,9 @@ Assignments:
 - [Lab 15](ebook/CH15/15.5.%20Lab%2015.md) (due Apr 18 by 5pm)
 - [Homework 3](ebook/CH15/15.6.%20Homework%2015.md) (due Apr 21 by 5pm)
 
-### Week 12: Apr 15 & Apr 17
+### Week 12 — Progressing projects and projecting progress
+
+Dates: Apr 15 & Apr 17
 
 Topics:
 
@@ -309,7 +334,9 @@ Assignments:
 
 - Project Check-in 3 (due Apr 18 by 5pm)
 
-### Week 13: Apr 22 & Apr 24
+### Week 13 — Teaching sand to think: Revealing patterns in data with machine learning
+
+Dates: Apr 22 & Apr 24
 
 Topics:
 
@@ -323,7 +350,9 @@ Assignments:
 - [CH17: Machine Learning](ebook/CH17/)
 - [Lab 17](ebook/CH17/17.6.%20Lab%2017.md) (due Apr 25 by 5pm)
 
-### Week 14: Apr 29 & May 1
+### Week 14 — "Speak friend, and enter": Taming text with regular expressions and NLP
+
+Dates: Apr 29 & May 1
 
 Topics:
 
@@ -336,7 +365,9 @@ Assignments:
 - [Lab 18](ebook/CH18/18.5.%20Lab%2018.md) (due May 2 by 5pm)
 - [Homework 4](ebook/CH18/18.6.%20Homework%2018.md) (due May 5 by 5pm)
 
-### Week 15: May 6
+### Week 15 — It's the final countdown!
+
+Dates: May 6
 
 Topics:
 
@@ -347,7 +378,7 @@ Assignments:
 - Final Project Extra Credit 1: Get peer reviewed (due May 9 by 5pm)
 - Final Project Extra Credit 2: Provide peer review (due May 12 by 5pm)
 
-### Final Exam Week
+### Final Exam Week — There and back again
 
 Assignments:
 
