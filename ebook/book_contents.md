@@ -18,7 +18,7 @@
 9. Testing, Debugging, and Exceptions
 10. GitHub and Version Control
 
-### Part 2: Applications to Brain and Cognitive Science<br>
+### Part 2: Applications to Brain and Cognitive Science
 
 11. [Graphical User Interfaces](CH11/11.0.%20Graphical%20User%20Interfaces.md)
 12. Games and Simulations
