@@ -136,9 +136,43 @@ is the responsibility of each student to refrain from infractions of academic in
 suspicion of such infractions, and from conduct that aids others in such infractions. It is also the responsibility of
 the student to know and understand what constitutes academic integrity infractions. Ignorance is not a valid excuse. The
 University's official statement of a student's responsibilities can be found here:
-[http://admin.illinois.edu/policy/code/article1_part4_1-401.html](http://admin.illinois.edu/policy/code/article1_part4_1-401.html).
+[https://studentcode.illinois.edu/article1/part4/1-401](https://studentcode.illinois.edu/article1/part4/1-401).
 More information about the University's academic integrity policy, and what constitutes an infraction, can be found
-here: [http://www.las.illinois.edu/students/integrity/](http://www.las.illinois.edu/students/integrity/).
+here: [https://www.las.illinois.edu/students/integrity/](https://www.las.illinois.edu/students/integrity/).
+
+### AI Policy
+
+It is becoming increasingly common for programmers to use AI tools to help them write code. This is not so dangerous for
+an experienced coder who (hopefully) understands both the benefits and dangers of these tools. However, it is likely
+outright harmful for a beginner who is just learning how to program. Imagine trying to learn how to ride a bicycle for
+the first time, but instead of struggling with an actual bicycle, falling, getting bruised, developing a sense of
+balance, etc., you're instead "training" by sitting on a self-driving tricycle with unreliable GPS and a tendency to go
+off-road. I am especially concerned by how these tools can reduce one's ability to debug program behavior and think
+critically about whether the code you are writing accomplishes your goals correctly.
+
+While I don't want to discourage you from using AI assistants writ large, I do want you to be transparent and thoughtful
+in your use of such tools. So, I ask that you keep in mind the distinction between "learning" vs. "doing" as you go
+through this course:
+
+- You may use AI tools to help you _learn_ how to program. For example, you can ask large language models (LLMs, like
+  ChatGPT) to explain core coding concepts to you in ways that you might find digestible, or to help you understand why
+  your code threw a particular error. One such tool is Harvard's CS50 class's [Rubber Duck Debugging
+  AI](https://cs50.ai/chat). The virtual duck asks questions to help you understand what's going on in your code (a la
+  ["Rubber Duck Debugging"](https://rubberduckdebugging.com/)). It is unlikely to hamper your learning and may even
+  help.
+- You may _not_ use AI tools to _do_ (or complete) any of your assignments. This means that you mustn't ask a chatbot to
+  write code for you (e.g., "Write me a function that returns the sum of squares of a list of numbers") and you mustn't
+  copy and paste code directly from a large language model or other AI system into an assignment as your own.
+
+**Transparency requirement**: If you do use AI tools to help you learn, I ask that you please be transparent about it. For example, if you use a
+chatbot to help you understand a concept, you might write at the top of your code something like:
+
+> I used ChatGPT to help me understand recursion. Here is the conversation that I had:
+> [Insert link to conversation or summary of conversation here]
+
+If, however, you fail to be transparent in your use of the tools, or use an AI tool to literally _do_ your assignments
+for you, then you will have violated the academic integrity policy. Such violations will result in a grade of zero for
+the relevant assignment and may be referred to the University's academic integrity office for further review.
 
 ## 5. Accommodation Policy
 
