@@ -96,7 +96,7 @@ topic of your own choosing. We will discuss the details later. At the end of the
 and a brief project report which describes your project. For the project, you may work alone or in a group. The bigger
 the group, the higher the expectations for your project.
 
-XXX More info on final project goes here — Check Jaime's notes on Canvas for more details XXX
+You can learn more about the final project [here](bcog_200_final_project_assignment.md).
 
 ### Participation and Attendance — 10%
 
