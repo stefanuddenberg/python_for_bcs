@@ -1,10 +1,4 @@
-# Syllabus for BCOG 200: Introduction to Programming for Brain & Cognitive Science
-
-## 0. TODOS:
-
-- Change the links to be to the github version of the book
-- Create supplemental information for the project
-- Create supplemental information about best practices
+# Syllabus for BCOG 200: Introduction to Programming for the Brain & Cognitive Sciences
 
 ## 1. Course Info
 
