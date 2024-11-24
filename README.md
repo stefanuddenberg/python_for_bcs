@@ -1,4 +1,4 @@
-## BCOG 200: Introduction to Programming for Brain and Cognitive Science
+## BCOG 200/PSYC 496: Introduction to Programming for Brain and Cognitive Science
 
 This website hosts information for this course:
 
