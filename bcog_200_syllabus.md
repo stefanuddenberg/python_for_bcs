@@ -16,7 +16,7 @@ Zoom Link when Necessary:
 
 ### Materials
 
-1. Course Website: http://learn.illinois.edu
+1. Course Website: https://canvas.illinois.edu
 2. [Online Textbook](ebook/book_contents.md)
 3. Course Github Page: https://github.com/stefanuddenberg/python_for_bcs
 
