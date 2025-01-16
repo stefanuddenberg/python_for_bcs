@@ -231,7 +231,7 @@ Assignments:
 
 - [CH3: Functions](ebook/CH03/3.0%20Functions.md)
 - [Lab 3](ebook/CH03/3.6.%20Lab%203.md) (due Feb 10 by 5pm)
-- Homework 1 (due Feb 10 by 5pm)
+- [Homework 1](ebook/CH03/3.7.%20Homework%203.md) (due Feb 10 by 5pm)
 
 ### Week 4 — Staying organized so your data can spark joy: Data structures and sequencing
 
@@ -277,7 +277,7 @@ Assignments:
 
 - [CH6: Classes and OOP](ebook/CH06/)
 - [Lab 6](ebook/CH06/6.5.%20Lab%206.md) (due Mar 3 by 5pm)
-- [Homework 2](ebook/CH06/6.6.%20Homework%202.md) (due Mar 3 by 5pm)
+- [Homework 2](ebook/CH06/6.6.%20Homework%206.md) (due Mar 3 by 5pm)
 
 ### Week 7 — "Make it work, make it right, make it fast": Best practices and version control
 
