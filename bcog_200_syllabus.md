@@ -27,22 +27,21 @@ Assistant Professor of Psychology\
 University of Illinois at Urbana-Champaign\
 E-mail: stefanu@illinois.edu \
 Website: https://www.socialperception.org \
-Office Hours: Thursday 1pm-3pm, Psychology 731
+Office Hours: Friday 3:40pm-5:40pm, Psychology 731
 
 ### Teaching Assistants
-
-- Jonathan Yuquimpo
-
-  - Ph.D. Student in Psychology, Cognitive area
-  - University of Illinois at Urbana-Champaign
-  - E-mail: jy57@illinois.edu
-  - Office Hours: XXX XXXpm-XXXpm, Psychology XXX
 
 - Pei-Ling Yang
   - Ph.D. Student in Psychology, Attention & Perception area
   - University of Illinois at Urbana-Champaign
   - E-mail: plyang2@illinois.edu
-  - Office Hours: XXX XXXpm-XXXpm, Psychology XXX
+  - Office Hours: Thursdays 2pm-4pm, Psychology 590
+
+- Jonathan Yuquimpo
+  - Ph.D. Student in Psychology, Cognitive area
+  - University of Illinois at Urbana-Champaign
+  - E-mail: jy57@illinois.edu
+  - Office Hours: Thursdays 4pm-6pm, Psychology 830
 
 ### Attribution
 
