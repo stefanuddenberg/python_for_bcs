@@ -301,6 +301,7 @@ Assignments:
 - [CH8: Good Programming Techniques](ebook/CH08/8.0.%20Good%20Programming%20Techniques.md)
 - [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) from MIT's "The Missing Semester of Your CS Education"
   - Just the reading; everything else is optional
+- [Hutch Data Science Intro to Git](https://hutchdatascience.org/Intro_to_Git_and_GitHub/introduction-to-git.html)
 - Project Check-in 1 (due Mar 10 by 5pm)
 
 ### Week 8 — 🎵 Buttons and boxes and sliders in action: Graphics for users and their satisfaction 🎵
