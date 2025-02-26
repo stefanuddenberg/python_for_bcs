@@ -11,7 +11,7 @@ Spring 2025
 Psychology Room 32<br>
 Tue/Thu 9:30am-10:50am
 
-Zoom Link when Necessary:
+Zoom link when strictly necessary (e.g., instructor is sick):
 [https://illinois.zoom.us/j/87583213959?pwd=1yGjG6Yty3SJiaLj0A4wDhG3Ab0mJ3.1](https://illinois.zoom.us/j/87583213959?pwd=1yGjG6Yty3SJiaLj0A4wDhG3Ab0mJ3.1)
 
 ### Materials
@@ -182,7 +182,16 @@ disability-related condition that is impacting your academic progress, there are
 available on campus that can help diagnose a previously undiagnosed disability by visiting the DRES website and
 selecting "Sign-Up for an Academic Screening" at the bottom of the page.
 
-## 6. Class Schedule
+## 6. External Resources
+Here I will keep a running list of useful resources for learning Python and related programming skills (e.g.,
+the terminal, Git) that can supplement the class material and office hours.
+
+- [Trinket](https://trinket.io) is a useful in-browser Python runnner, especially for Turtle programs
+  - It has several [tutorials](https://hourofpython.com/) available which may prove helpful!
+- Here at Illinois, Grainger offers [Python tutoring](https://care.grainger.illinois.edu/tutoring/schedule-by-skill)
+- [Video overview of Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+
+## 7. Class Schedule
 
 ### Week 1 — "Hello, World!" Starting your Python journey.
 
