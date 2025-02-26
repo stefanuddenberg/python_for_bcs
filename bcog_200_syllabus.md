@@ -190,6 +190,7 @@ the terminal, Git) that can supplement the class material and office hours.
   - It has several [tutorials](https://hourofpython.com/) available which may prove helpful!
 - Here at Illinois, Grainger offers [Python tutoring](https://care.grainger.illinois.edu/tutoring/schedule-by-skill)
 - [Video overview of Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+- [Hutch Data Science Intro to Git](https://hutchdatascience.org/Intro_to_Git_and_GitHub/introduction-to-git.html)
 
 ## 7. Class Schedule
 
@@ -302,6 +303,7 @@ Assignments:
 - [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) from MIT's "The Missing Semester of Your CS Education"
   - Just the reading; everything else is optional
 - [Hutch Data Science Intro to Git](https://hutchdatascience.org/Intro_to_Git_and_GitHub/introduction-to-git.html)
+- [Video overview of Git, Github, and Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 - Project Check-in 1 (due Mar 10 by 5pm)
 
 ### Week 8 — 🎵 Buttons and boxes and sliders in action: Graphics for users and their satisfaction 🎵
