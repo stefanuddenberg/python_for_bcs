@@ -302,7 +302,7 @@ Assignments:
 
 - [CH8: Good Programming Techniques](ebook/CH08/8.0.%20Good%20Programming%20Techniques.md)
 - [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) from MIT's "The Missing Semester of Your CS Education"
-  - Just the reading; everything else is optional
+  - Just the reading here; everything else at this link is optional
 - [Hutch Data Science Intro to Git](https://hutchdatascience.org/Intro_to_Git_and_GitHub/introduction-to-git.html)
 - [Video overview of Git, Github, and Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 - [Getting started with Markdown](https://www.markdownguide.org/getting-started/)
