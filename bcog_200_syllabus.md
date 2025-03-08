@@ -32,6 +32,7 @@ Office Hours: Friday 3:40pm-5:40pm, Psychology 29
 ### Teaching Assistants
 
 - Pei-Ling Yang
+
   - Ph.D. Student in Psychology, Attention & Perception area
   - University of Illinois at Urbana-Champaign
   - E-mail: plyang2@illinois.edu
@@ -183,11 +184,14 @@ available on campus that can help diagnose a previously undiagnosed disability b
 selecting "Sign-Up for an Academic Screening" at the bottom of the page.
 
 ## 6. External Resources
+
 Here I will keep a running list of useful resources for learning Python and related programming skills (e.g.,
 the terminal, Git) that can supplement the class material and office hours.
 
 - [Trinket](https://trinket.io) is a useful in-browser Python runnner, especially for Turtle programs
   - It has several [tutorials](https://hourofpython.com/) available which may prove helpful!
+- [DataCamp](https://www.datacamp.com/) is an online platform offering interactive coding tutorials in many different
+  programming languages, including Python. Some lessons are free, but many require a subscription.
 - Here at Illinois, Grainger offers [Python tutoring](https://care.grainger.illinois.edu/tutoring/schedule-by-skill)
 - [Video overview of Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 - [Hutch Data Science Intro to Git](https://hutchdatascience.org/Intro_to_Git_and_GitHub/introduction-to-git.html)
@@ -238,7 +242,7 @@ Topics:
 
 Assignments:
 
-- [CH3: Functions](ebook/CH03/3.0%20Functions.md)
+- [CH3: Functions](ebook/CH03/3.0.%20Functions.md)
 - [Lab 3](ebook/CH03/3.6.%20Lab%203.md) (due Feb 10 by 5pm)
 - [Homework 1](ebook/CH03/3.7.%20Homework%203.md) (due Feb 10 by 5pm)
 

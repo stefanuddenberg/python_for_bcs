@@ -249,7 +249,7 @@ Topics:
 
 Assignments:
 
-- [CH3: Functions](ebook/CH03/3.0%20Functions.md)
+- [CH3: Functions](ebook/CH03/3.0.%20Functions.md)
 - [Lab 3](ebook/CH03/3.6.%20Lab%203.md) (due Feb 10 by 5pm)
 - [Homework 1](ebook/CH03/3.7.%20Homework%203.md) (due Feb 10 by 5pm)
 
