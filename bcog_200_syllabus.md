@@ -84,15 +84,15 @@ I am aware that the above numbers add up to 104%; the bonus points are explained
 
 Each week we will be spending a considerable portion of our lab time working on various lab exercises. Each lab
 assignment is one of the final sections of each chapter in the textbook. Lab assignments should be turned in each week
-on the course website. Labs are due each Monday at 5pm. They can be turned in by Tuesday at 5pm for a 20% deduction.
-After Tuesday at 5pm, they will not be accepted unless you have made prior arrangements.
+on the course website. Labs are due each Monday at 11:59pm. They can be turned in by Tuesday at 11:59pm for a 20% deduction.
+After Tuesday at 11:59pm, they will not be accepted unless you have made prior arrangements.
 
 ### Homework — 30%
 
 There are four homework assignments throughout the semester, about every three weeks. The homework assignments involve
 creating a single, more complex Python program that achieves some BCOG-related goals. Homework assignments should be
-turned in each week on the course website. Like the labs, these homework assignments are due on Mondays at 5pm, and 10%
-is deducted for each day they are late.
+turned in each week on the course website. These homework assignments are due on Wednesdays at 11:59pm, and 10% is
+deducted for each day they are late.
 
 ### Final Project — 20%
 
@@ -326,7 +326,7 @@ Topics:
 Assignments:
 
 - [CH11: Graphical User Interfaces (GUIs)](ebook/CH11/)
-- [Lab 11](ebook/CH11/11.6.%20Lab%2011.md) (due Mar 17 by 5pm)
+- [Lab 11](ebook/CH11/11.6.%20Lab%2011.md) (due Mar 17 by 11:59pm)
 
 ### Spring Break Mar 15-23
 
@@ -342,7 +342,7 @@ Topics:
 Assignments:
 
 - [CH13: Programming Experiments](ebook/CH13/)
-- [Lab 13](ebook/CH13/13.6.%20Lab%2013.md) (due Mar 31 by 5pm)
+- [Lab 13](ebook/CH13/13.6.%20Lab%2013.md) (due Mar 31 by 11:59pm)
 
 ### Week 10 — Data so good you can almost frame it: Analysis with Pandas
 
@@ -356,7 +356,7 @@ Topics:
 Assignments:
 
 - [CH14: Data Science](ebook/CH14/)
-- Project Check-in 2 (due Apr 7 by 5pm)
+- Project Check-in 2 (due Apr 7 by 11:59pm)
 
 ### Week 11 — Show, don't tell: Storytelling via data visualizations
 
@@ -371,8 +371,8 @@ Topics:
 Assignments:
 
 - [CH15: Data Visualization](ebook/CH15/)
-- [Lab 15](ebook/CH15/15.5.%20Lab%2015.md) (due Apr 14 by 5pm)
-- [Homework 3](ebook/CH15/15.6.%20Homework%2015.md) (due Apr 14 by 5pm)
+- [Lab 15](ebook/CH15/15.5.%20Lab%2015.md) (due Apr 14 by 11:59pm)
+- [Homework 3](ebook/CH15/15.6.%20Homework%2015.md) (due Apr 16 by 11:59pm)
 
 ### Week 12 — Progressing projects and projecting progress
 
@@ -384,7 +384,7 @@ Topics:
 
 Assignments:
 
-- Project Check-in 3 (due Apr 21 by 5pm)
+- Project Check-in 3 (due Apr 21 by 11:59pm)
 
 ### Week 13 — Teaching sand to think: Revealing patterns in data with machine learning
 
@@ -400,7 +400,7 @@ Topics:
 Assignments:
 
 - [CH17: Machine Learning](ebook/CH17/)
-- [Lab 17](ebook/CH17/17.6.%20Lab%2017.md) (due Apr 28 by 5pm)
+- [Lab 17](ebook/CH17/17.6.%20Lab%2017.md) (due Apr 28 by 11:59pm)
 
 ### Week 14 — "Speak friend, and enter": Taming text with regular expressions and NLP
 
@@ -414,8 +414,8 @@ Topics:
 Assignments:
 
 - [CH18: Natural Language Processing](ebook/CH18/)
-- [Lab 18](ebook/CH18/18.5.%20Lab%2018.md) (due May 5 by 5pm)
-- [Homework 4](ebook/CH18/18.6.%20Homework%2018.md) (due May 5 by 5pm)
+- [Lab 18](ebook/CH18/18.5.%20Lab%2018.md) (due May 5 by 11:59pm)
+- [Homework 4](ebook/CH18/18.6.%20Homework%2018.md) (due May 7 by 11:59pm)
 
 ### Week 15 — It's the final countdown!
 
@@ -427,11 +427,11 @@ Topics:
 
 Assignments:
 
-- Final Project Extra Credit 1: Get peer reviewed (due May 9 by 5pm)
-- Final Project Extra Credit 2: Provide peer review (due May 12 by 5pm)
+- Final Project Extra Credit 1: Get peer reviewed (due May 9 by 11:59pm)
+- Final Project Extra Credit 2: Provide peer review (due May 12 by 11:59pm)
 
 ### Final Exam Week — There and back again
 
 Assignments:
 
-- Final Project (due May 16 by 5pm, or May 19 by 5 pm if you have completed the extra credit tasks)
+- Final Project (due May 16 by 11:59pm, or May 19 by 11:59pm if you have completed the extra credit tasks)
