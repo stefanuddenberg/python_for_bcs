@@ -187,6 +187,8 @@ distribution and descriptions below.
 | Code Tests          | 2 points (10%)                |
 | Extra Credit        | 1 point (5%)                  |
 
+### Concept (5%)
+
 Your project is directed to fulfill some task that meets the requirements of the project specification. Note that
 concepts are not graded on complexity. The goal of the project is to choose a task that you can complete in code, and
 you should choose and work on a task that is interesting to you. As long as your idea is responsive to the project
