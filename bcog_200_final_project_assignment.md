@@ -142,7 +142,8 @@ here on Canvas:
 1. **What is the URL for your public GitHub repository containing all of the files ready to run your program as-is?**
    Group project members, also be sure to provide your individual GitHub username.
 
-   > [!WARNING] WE CAN ONLY GRADE A FINAL PROJECT THAT RUNS!
+   > [!WARNING]
+   > ### WE CAN ONLY GRADE A FINAL PROJECT THAT RUNS!
    > If your code does not run, you will receive a zero on the
    > Final Project. Test it on your computer, test it on a friend's computer, test it in a computer lab. Be absolutely
    > certain that your code will run as-is. It is better to have more limited code that runs than more complex code that
