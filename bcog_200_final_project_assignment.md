@@ -103,6 +103,9 @@ As the focus of the project is working with Python code, there is no prioritizat
 On the contrary, in the face of a complex task in which the work ends up being trying to understand the complex topic
 you are working on, instead of focusing on working directly with Python code, a simpler project topic is preferred.
 
+That being said, the project should challenge you, and should be on a similar (or greater) level of complexity to the
+homework assignments.
+
 ## Project Approach
 
 As you work through your project, we recommend taking an approach in which you use a modular design and **prioritize
@@ -143,7 +146,9 @@ here on Canvas:
    Group project members, also be sure to provide your individual GitHub username.
 
    > [!WARNING]
+   >
    > ### WE CAN ONLY GRADE A FINAL PROJECT THAT RUNS!
+   >
    > If your code does not run, you will receive a zero on the
    > Final Project. Test it on your computer, test it on a friend's computer, test it in a computer lab. Be absolutely
    > certain that your code will run as-is. It is better to have more limited code that runs than more complex code that
@@ -154,7 +159,7 @@ here on Canvas:
    functions/methods, describe (briefly) why you like them.**
 
    We'll be evaluating the code overall, but this gives us valuable added context for grading, especially when there is
-   so much variation between projects. No script is perfect and there are always bits you're more or less satisfied
+   so much variation between projects. No script is perfect, and there are always bits you're more or less satisfied
    with; it's a useful skill to evaluate where your strengths (and weaknesses) are. You are only required to write (at
    least) 3 functions/methods; if you only wrote 3 total, then those 3 are the ones you're most proud of!
 
@@ -197,22 +202,25 @@ outline, as described above, it will be considered valid.
 
 ### File Structure (5%)
 
-Your project includes a clear file organization, and includes at least one documentation file and one Python file (not
-including the test file), organized into a directory structure.
+Your project includes a clear file organization, and includes at least one documentation file and one python file (not
+including the test file), organized into a directory structure. All files have a reasonable name, without spaces, and a
+file extension that makes sense (e.g., a file with data in it could be called data.csv; your main script could be called
+main.py, and so on).
 
 ### Project Description (10%)
 
-Within the documentation file, there is a description of the project. This description should be written in human
-language, and provide a self contained description of the project. This can be organized as, for example, a couple
-paragraphs of text, and/or bullet points, etc.
+Within the documentation file, there is a description of the project. This description should be written in English, and
+provide a self-contained description of the project. This can be organized as, for example, a couple of text paragraphs,
+some bullet points, etc. The documentation is written in Markdown (e.g., in a file named README.md) and is easy to parse
+visually (e.g., no run-on sentences, proper use of paragraphs and bullet points, etc.).
 
 ### Approach (20%)
 
 The approach you designed and implemented to create your project meets these requirements:
 
-- You use relevant modules (from standard library and external sources)
-- The algorithms / approaches used are well-chosen for the task at hand
-- The algorithms / approaches chosen are properly implemented
+- You use relevant modules (from the standard library and/or external sources)
+- The algorithms/approaches used are well-chosen for the task at hand
+- The algorithms/approaches chosen are properly implemented
 
 ### Project Code (30%)
 
@@ -232,19 +240,20 @@ Structurally, we will be evaluating the following criteria:
 
 - Uses blank lines to separate code elements and logical structure
 - Uses good indentation & spacing
+- Uses idiomatic Python (e.g., list comprehensions where appropriate, etc.)
 - Has 1 statement per line, and line length is not too long (~<80 characters)
 
 In terms of naming, we will be evaluating the following criteria:
 
 - Uses descriptive names
-- Follows naming conventions
-- PascalCase for class definitions & snake_case for variables, functions and methods
+- Follows Pythonic naming conventions
+- PascalCase (CapWords) for class definitions & snake_case for variables, functions and methods
 
 ### Code Documentation (10%)
 
 Documentation will be evaluated in terms of:
 
-- Includes user documentation, such as docstrings (numpy format) for custom classes, functions, and methods
+- Includes user documentation, such as docstrings and/or type hinting for custom classes, functions, and methods
 - Includes appropriate comments within the code
 
 ### Code Tests (10%)
@@ -254,6 +263,10 @@ organized into a test file, in a test folder, and be easily read, such as by usi
 unit test of your custom functions and/or classes in your project, and should test that the code executes and that at
 least some of the expected outputs of the function are returned, given some specified inputs.
 
+If you do not use unit tests, then you should have some other way to test that things work as expected. For example,
+this could be a narrative of how a user could evaluate that the code runs as expected, including at least three ways to
+tell that it functions properly.
+
 ### Extra Credit (up to 5%)
 
 For extra credit, if you go above and beyond on the minimal project requirements and challenge yourself to approach a
@@ -262,12 +275,20 @@ course, or uses code concepts not taught in class, explain this at the time of y
 why your approach was particularly difficult/challenging for you and how your work goes beyond the minimal project
 requirements.
 
+### Run As-Is Requirement
+
+Above all else, Final Projects are required to run as-is on our graders' computers. If you use any packages outside of
+the standard library, you will need a `requirements.txt` file that specifies the packages needed, and instructions in
+your documentation for any other particularities of your required environment setup.
+
+**_Any Final Project that does not run will receive zero credit._**
+
 ## External Code
 
-Your project may include external code - that can be code from the course (assignments, materials, and/or coding labs),
+Your project may include external code — that can be code from the course (assignments, materials, and/or coding labs),
 code from fellow students, that you perhaps worked on together, and/or code from other sources. Note that this code is
-not considered original code for the project, and will not be graded. Please follow the following guidelines when doing
-so.
+not considered original code for the project, and _will not be graded_. Please follow the following guidelines when
+doing so.
 
 ### Course Code
 
@@ -291,13 +312,13 @@ available.
 
 Clear attribution of code is important. Including external code, that you did not write, but failing to indicate that is
 code you did not write and passing it off as your own is (and will be considered) plagiarism. To cite code indicate in
-the docstring for the module / function / class or code segment that this code is external code, and include the source
-of the code.
+the docstring for the module/function/class or code segment that this code is external code, and include the source of
+the code.
 
 ### Modified Code
 
 It may also be the case that you originally start with code from an external source, but through your project you modify
-that code - perhaps refactoring it, reorganizing the code, and/ or editing and updating the code organization and
+that code — perhaps refactoring it, reorganizing the code, and/or editing and updating the code organization and
 functionality. If this is the case, also provide attribution and a link to the source, but if you significantly update
 the code organization and/or functionality (refactoring the code, and/or updating functionality more than just updating
 naming, style, and documentation), then you can and should indicate that this adapted code is to be considered part of
