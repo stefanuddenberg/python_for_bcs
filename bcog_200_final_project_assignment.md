@@ -202,10 +202,12 @@ outline, as described above, it will be considered valid.
 
 ### File Structure (5%)
 
-Your project includes a clear file organization, and includes at least one documentation file and one python file (not
-including the test file), organized into a directory structure. All files have a reasonable name, without spaces, and a
-file extension that makes sense (e.g., a file with data in it could be called data.csv; your main script could be called
-main.py, and so on).
+Your project includes a clear file organization, and includes at least one documentation file and
+one python file (not including the test file), organized into a directory structure. All files have
+a reasonable name, without spaces, and a file extension that makes sense (e.g., a file with data in
+it could be called data.csv; your main script could be called main.py, and so on). The repository
+itself has a name that is descriptive and conforms to kebab case (i.e., all lower case, separated by
+hyphens, not spaces or underscores; e.g., bcog200-wolfpack-effect-demo).
 
 ### Project Description (10%)
 
