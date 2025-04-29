@@ -203,7 +203,21 @@ disability-related condition that is impacting your academic progress, there are
 available on campus that can help diagnose a previously undiagnosed disability by visiting the DRES website and
 selecting "Sign-Up for an Academic Screening" at the bottom of the page.
 
-## 6. Class Schedule
+## 6. External Resources
+
+Here I will keep a running list of useful resources for learning Python and related programming skills (e.g.,
+the terminal, Git) that can supplement the class material and office hours.
+
+- [Trinket](https://trinket.io) is a useful in-browser Python runnner, especially for Turtle programs
+  - It has several [tutorials](https://hourofpython.com/) available which may prove helpful!
+- [DataCamp](https://www.datacamp.com/) is an online platform offering interactive coding tutorials in many different
+  programming languages, including Python. Some lessons are free, but many require a subscription.
+- Here at Illinois, Grainger offers [Python tutoring](https://care.grainger.illinois.edu/tutoring/schedule-by-skill)
+- [Video overview of Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+- [Hutch Data Science Intro to Git](https://hutchdatascience.org/Intro_to_Git_and_GitHub/introduction-to-git.html)
+- [Regex One](https://regexone.com/) is an interactive tool for learning about regular expressions.
+
+## 7. Class Schedule
 
 ### Week 1 — "Hello, World!" Starting your Python journey.
 
