@@ -195,6 +195,7 @@ the terminal, Git) that can supplement the class material and office hours.
 - Here at Illinois, Grainger offers [Python tutoring](https://care.grainger.illinois.edu/tutoring/schedule-by-skill)
 - [Video overview of Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
 - [Hutch Data Science Intro to Git](https://hutchdatascience.org/Intro_to_Git_and_GitHub/introduction-to-git.html)
+- [Regex One](https://regexone.com/) is an interactive tool for learning about regular expressions.
 
 ## 7. Class Schedule
 
