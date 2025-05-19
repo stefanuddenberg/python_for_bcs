@@ -145,15 +145,15 @@ here on Canvas:
 1. **What is the URL for your public GitHub repository containing all of the files ready to run your program as-is?**
    Group project members, also be sure to provide your individual GitHub username.
 
-   > **Warning**
-   >
-   > ### WE CAN ONLY GRADE A FINAL PROJECT THAT RUNS!
-   >
-   > If your code does not run, you will receive a zero on the
-   > Final Project. Test it on your computer, test it on a friend's computer, test it in a computer lab. Be absolutely
-   > certain that your code will run as-is. It is better to have more limited code that runs than more complex code that
-   > doesn't. If your project has external dependencies, make sure to include a `requirements.txt` file or
-   > `environment.yml` file in the root of your repository.
+> [!WARNING]
+>
+> ### WE CAN ONLY GRADE A FINAL PROJECT THAT RUNS!
+>
+> If your code does not run, you will receive a zero on the
+> Final Project. Test it on your computer, test it on a friend's computer, test it in a computer lab. Be absolutely
+> certain that your code will run as-is. It is better to have more limited code that runs than more complex code that
+> doesn't. If your project has external dependencies, make sure to include a `requirements.txt` file or
+> `environment.yml` file in the root of your repository.
 
 2. **Which three functions or methods that you wrote are you proudest of/happiest with? For each of those three
    functions/methods, describe (briefly) why you like them.**
