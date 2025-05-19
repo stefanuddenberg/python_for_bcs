@@ -145,7 +145,7 @@ here on Canvas:
 1. **What is the URL for your public GitHub repository containing all of the files ready to run your program as-is?**
    Group project members, also be sure to provide your individual GitHub username.
 
-   > [!WARNING]
+   > **Warning**
    >
    > ### WE CAN ONLY GRADE A FINAL PROJECT THAT RUNS!
    >
