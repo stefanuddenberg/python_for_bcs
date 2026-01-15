@@ -468,7 +468,7 @@ Assignments:
 - [CH17: Machine Learning](ebook/CH17/)
 - [Lab 17](ebook/CH17/17.6.%20Lab%2017.md) (due Apr 24 by 11:59pm)
 
-### Week 14 — "Speak friend, and enter": Taming text with regular expressions and NLP
+### Week 14 — Fast(API) & Furious: Building simple online experiments with FastAPI and SQLModel
 
 Dates: Apr 28 & Apr 30
 
