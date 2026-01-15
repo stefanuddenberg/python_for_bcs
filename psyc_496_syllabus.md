@@ -265,7 +265,7 @@ skills (e.g., the terminal, Git) that can supplement the class material and offi
 
 ### Week 1 — "Hello, World!" Starting your Python journey.
 
-Dates: Jan 21 & Jan 23
+Dates: Jan 20 & Jan 22
 
 Topics:
 
@@ -278,11 +278,11 @@ Assignments:
 - [CH0: Installing and Using Python](ebook/CH00/0.0.%20Installing%20Python.md)
 - 0.3 Supplement: [Glossary of common terminal commands from Codecademy](https://www.codecademy.com/article/command-line-commands)
 - [CH1: Basic Python Commands](ebook/CH01/1.0.%20Python%20Statements%20&%20Expressions.md)
-- [Lab 1](ebook/CH01/1.8.%20Lab%201.md) (due Jan 27 by 5pm)
+- [Lab 1](ebook/CH01/1.8.%20Lab%201.md) (due Jan 23 by 11:59 pm)
 
 ### Week 2 — Learning to loop, live: Making the machine repeat **your**self, so you don't have to
 
-Dates: Jan 28 & Jan 30
+Dates: Jan 27 & Jan 29
 
 Topics:
 
@@ -293,11 +293,11 @@ Topics:
 Assignments:
 
 - [CH2: Loops, Sequences, and IO](ebook/CH02/2.0%20The%20For%20Loop.md)
-- [Lab 2](ebook/CH02/2.10.%20Lab%202.md) (due Feb 3 by 5pm)
+- [Lab 2](ebook/CH02/2.10.%20Lab%202.md) (due Jan 30 by 11:59 pm)
 
 ### Week 3 — Abstract patterns solve concrete problems: Functions as everyday problem-solving tools
 
-Dates: Feb 4 & Feb 6
+Dates: Feb 3 & Feb 5
 
 Topics:
 
@@ -308,12 +308,12 @@ Topics:
 Assignments:
 
 - [CH3: Functions](ebook/CH03/3.0.%20Functions.md)
-- [Lab 3](ebook/CH03/3.6.%20Lab%203.md) (due Feb 10 by 5pm)
-- [Homework 1](ebook/CH03/3.7.%20Homework%203.md) (due Feb 10 by 5pm)
+- [Lab 3](ebook/CH03/3.6.%20Lab%203.md) (due Feb 6 by 11:59 pm)
+- [Homework 1](ebook/CH03/3.7.%20Homework%203.md) (due Feb 9 by 11:59 pm)
 
 ### Week 4 — Staying organized so your data can spark joy: Data structures and sequencing
 
-Dates: Feb 11 & Feb 13
+Dates: Feb 10 & Feb 12
 
 Topics:
 
@@ -324,11 +324,11 @@ Topics:
 Assignments:
 
 - [CH4: Dictionaries and Sets](ebook/CH04/4.0.%20Sets.md)
-- [Lab 4](ebook/CH04/4.4.%20Lab%204.md) (due Feb 17 by 5pm)
+- [Lab 4](ebook/CH04/4.4.%20Lab%204.md) (due Feb 13 by 11:59 pm)
 
 ### Week 5 — Want to fly? Just `import antigravity`: Building on the backs of giants with core and third-party modules
 
-Dates: Feb 18 & Feb 20
+Dates: Feb 17 & Feb 19
 
 Topics:
 
@@ -339,11 +339,11 @@ Topics:
 Assignments:
 
 - [CH5: Modules (especially NumPy)](ebook/CH05/5.0.%20Core%20Python%20Modules.md)
-- [Lab 5](ebook/CH05/5.5.%20Lab%205.md) (due Feb 24 by 5pm)
+- [Lab 5](ebook/CH05/5.5.%20Lab%205.md) (due Feb 20 by 11:59 pm)
 
 ### Week 6 — In a `Class` of its own: Working with objects to solve complex problems
 
-Dates: Feb 25 & Feb 27
+Dates: Feb 24 & Feb 26
 
 Topics:
 
@@ -354,28 +354,34 @@ Topics:
 Assignments:
 
 - [CH6: Classes and OOP](ebook/CH06/)
-- [Lab 6](ebook/CH06/6.5.%20Lab%206.md) (due Mar 3 by 5pm)
-- [Homework 2](ebook/CH06/6.6.%20Homework%206.md) (due Mar 3 by 5pm)
+- [Lab 6](ebook/CH06/6.5.%20Lab%206.md) (due Feb 27 by 11:59 pm)
+- [Homework 2](ebook/CH06/6.6.%20Homework%206.md) (due Mar 2 by 11:59 pm)
 
 ### Week 7 — "Make it work, make it right, make it fast": Best practices and version control
 
-Dates: Mar 4 & Mar 6
+Dates: Mar 3 & Mar 5
 
 Topics:
 
 - Good Programming Techniques
 - Using GitHub
+- Using Markdown
 
 Assignments:
 
 - [CH8: Good Programming Techniques](ebook/CH08/8.0.%20Good%20Programming%20Techniques.md)
 - [Version Control (Git)](https://missing.csail.mit.edu/2020/version-control/) from MIT's "The Missing Semester of Your CS Education"
-  - Just the reading; everything else is optional
-- Project Check-in 1 (due Mar 10 by 5pm)
+  - Just the reading here; everything else at this link is optional
+- [Hutch Data Science Intro to Git](https://hutchdatascience.org/Intro_to_Git_and_GitHub/introduction-to-git.html)
+- [Video overview of Git, Github, and Github Desktop](https://www.youtube.com/watch?v=8Dd7KRpKeaE)
+- [Guide to Markdown](https://www.markdownguide.org/getting-started/)
+  - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+  - [Interactive Markdown tutorial](https://www.markdowntutorial.com/)
+- Project Check-in 1 (due Mar 6 by 11:59 pm)
 
 ### Week 8 — 🎵 Buttons and boxes and sliders in action: Graphics for users and their satisfaction 🎵
 
-Dates: Mar 11 & Mar 13
+Dates: Mar 10 & Mar 12
 
 Topics:
 
@@ -385,13 +391,13 @@ Topics:
 Assignments:
 
 - [CH11: Graphical User Interfaces (GUIs)](ebook/CH11/)
-- [Lab 11](ebook/CH11/11.6.%20Lab%2011.md) (due Mar 17 by 11:59pm)
+- [Lab 11](ebook/CH11/11.6.%20Lab%2011.md) (due Mar 13 by 11:59pm)
 
-### Spring Break Mar 15-23
+### Spring Break Mar 14-22
 
 ### Week 9 — From idea to implementation: Building an experiment from scratch
 
-Dates: Mar 25 & Mar 27
+Dates: Mar 24 & Mar 26
 
 Topics:
 
@@ -401,11 +407,11 @@ Topics:
 Assignments:
 
 - [CH13: Programming Experiments](ebook/CH13/)
-- [Lab 13](ebook/CH13/13.6.%20Lab%2013.md) (due Mar 31 by 11:59pm)
+- [Lab 13](ebook/CH13/13.6.%20Lab%2013.md) (due Mar 27 by 11:59pm)
 
 ### Week 10 — Data so good you can almost frame it: Analysis with Pandas
 
-Dates: Apr 1 & Apr 3
+Dates: Mar 31 & Apr 2
 
 Topics:
 
@@ -415,11 +421,11 @@ Topics:
 Assignments:
 
 - [CH14: Data Science](ebook/CH14/)
-- Project Check-in 2 (due Apr 7 by 11:59pm)
+- Project Check-in 2 (due Apr 3 by 11:59pm)
 
 ### Week 11 — Show, don't tell: Storytelling via data visualizations
 
-Dates: Apr 8 & Apr 10
+Dates: Apr 7 & Apr 9
 
 Topics:
 
@@ -430,12 +436,12 @@ Topics:
 Assignments:
 
 - [CH15: Data Visualization](ebook/CH15/)
-- [Lab 15](ebook/CH15/15.5.%20Lab%2015.md) (due Apr 14 by 11:59pm)
-- [Homework 3](ebook/CH15/15.6.%20Homework%2015.md) (due Apr 16 by 11:59pm)
+- [Lab 15](ebook/CH15/15.5.%20Lab%2015.md) (due Apr 10 by 11:59pm)
+- [Homework 3](ebook/CH15/15.6.%20Homework%2015.md) (due Apr 13 by 11:59pm)
 
 ### Week 12 — Progressing projects and projecting progress
 
-Dates: Apr 15 & Apr 17
+Dates: Apr 14 & Apr 16
 
 Topics:
 
@@ -443,11 +449,11 @@ Topics:
 
 Assignments:
 
-- Project Check-in 3 (due Apr 21 by 11:59pm)
+- Project Check-in 3 (due Apr 17 by 11:59pm)
 
 ### Week 13 — Teaching sand to think: Revealing patterns in data with machine learning
 
-Dates: Apr 22 & Apr 24
+Dates: Apr 21 & Apr 23
 
 Topics:
 
@@ -459,7 +465,7 @@ Topics:
 Assignments:
 
 - [CH17: Machine Learning](ebook/CH17/)
-- [Lab 17](ebook/CH17/17.6.%20Lab%2017.md) (due Apr 28 by 11:59pm)
+- [Lab 17](ebook/CH17/17.6.%20Lab%2017.md) (due Apr 24 by 11:59pm)
 
 ### Week 14 — "Speak friend, and enter": Taming text with regular expressions and NLP
 
@@ -480,16 +486,7 @@ Assignments:
 
 Dates: May 5
 
-Topics:Topics:
-
-- Web Programming with FastAPI and SQLModel
-- Creating Online Experiments
-
-Assignments:
-
-- [CH20: Web Programming](ebook/CH20/)
-- [Lab 20](ebook/CH20/20.6.%20Lab%2020.md) (due May 1 by 11:59pm)
-- [Homework 4](ebook/CH20/20.7.%20Homework%2020.md) (due May 4 by 11:59pm)
+Topics:
 
 - Final Project Workday
 
