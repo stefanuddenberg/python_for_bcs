@@ -76,20 +76,21 @@ Computational Foundations for Behavioral Science has three primary learning obje
 I am aware that the above numbers add up to 104%; the bonus points are explained in greater detail
 below.
 
-### Labs — 30%
+### Labs — 40%
 
 Each week we will be spending a considerable portion of our lab time working on various lab
 exercises. Each lab assignment is one of the final sections of each chapter in the textbook. Lab
-assignments should be turned in each week on the course website. Labs are due each week on Monday at
-11:59pm. They can be turned in by Tuesday at 11:59pm for a 20% deduction. After Tuesday at 11:59pm,
-they will not be accepted unless you have made prior arrangements.
+assignments should be turned in each week on the course website. Labs are due each week on Friday at
+11:59pm. They can be turned in by the following Monday at 11:59pm for a 20% deduction. After Monday
+at 11:59pm, they will not be accepted unless you have made prior arrangements.
 
-### Homework — 20%
+### Homework — 30%
 
 There are four homework assignments throughout the semester, about every three weeks. The homework
-assignments involve creating a single, more complex Python program that achieves some BCOG-related
-goals. Homework assignments should be turned in each week on the course website. These homework
-assignments are due on a Wednesday at 11:59pm, and 10% is deducted for each day they are late.
+assignments involve creating a single, more complex Python program that achieves some cognitive
+science-related goals. Homework assignments should be turned in each week on the course website.
+These homework assignments are due on Monday at 11:59pm, and 10% is deducted for each day they are
+late.
 
 ### Final Project & Final Paper — 40%
 
