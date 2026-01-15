@@ -36,7 +36,7 @@ Office Hours: Thursdays 1:00pm-3:00pm, Psychology 731
   - Ph.D. Student in Psychology, Attention & Perception area
   - University of Illinois at Urbana-Champaign
   - E-mail: munupat2@illinois.edu
-  - Office Hours: TBD
+  - Office Hours: Mondays and Wednesdays 9:00am-10:00am, Psychology 630
 
 - Harini Sankar
   - Ph.D. Student in Psychology, Attention & Perception area
