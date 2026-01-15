@@ -4,7 +4,7 @@
 
 ### Term
 
-Spring 2025
+Spring 2026
 
 ### Class Location & Time
 
