@@ -207,14 +207,17 @@ one python file (not including the test file), organized into a directory struct
 a reasonable name, without spaces, and a file extension that makes sense (e.g., a file with data in
 it could be called data.csv; your main script could be called main.py, and so on). The repository
 itself has a name that is descriptive and conforms to kebab case (i.e., all lower case, separated by
-hyphens, not spaces or underscores; e.g., bcog200-wolfpack-effect-demo).
+hyphens, not spaces or underscores; e.g., bcog200-wolfpack-effect-demo). The repository is public
+(so I can see it) and the repository is _clean_ (i.e., there are no errant files or folders
+present).
 
 ### Project Description (10%)
 
-Within the documentation file, there is a description of the project. This description should be written in English, and
-provide a self-contained description of the project. This can be organized as, for example, a couple of text paragraphs,
-some bullet points, etc. The documentation is written in Markdown (e.g., in a file named README.md) and is easy to parse
-visually (e.g., no run-on sentences, proper use of paragraphs and bullet points, etc.).
+Within the documentation file, there is a description of the project. This description should be
+written in English, and provide a self-contained description of the project. This can be organized
+as, for example, a couple of text paragraphs, some bullet points, etc. The documentation is written
+in Markdown (e.g., in a file named README.md) and is easy to parse visually (e.g., no run-on
+sentences, proper use of paragraphs and bullet points, etc.).
 
 ### Approach (20%)
 
@@ -255,56 +258,61 @@ In terms of naming, we will be evaluating the following criteria:
 
 Documentation will be evaluated in terms of:
 
-- Includes user documentation, such as docstrings and/or type hinting for custom classes, functions, and methods
+- Includes user documentation, such as docstrings and/or type hinting for custom classes, functions,
+  and methods
 - Includes appropriate comments within the code
 
 ### Code Tests (10%)
 
-You must include _at least three_ code tests in your project that test your original functions/methods. These should be
-organized into a test file, in a test folder, and be easily read, such as by using `pytest`. These tests should be a
-unit test of your custom functions and/or classes in your project, and should test that the code executes and that at
-least some of the expected outputs of the function are returned, given some specified inputs.
+You must include _at least three_ code tests in your project that test your original
+functions/methods. These should be organized into a test file, in a test folder, and be easily read,
+such as by using `pytest`. These tests should be a unit test of your custom functions and/or classes
+in your project, and should test that the code executes and that at least some of the expected
+outputs of the function are returned, given some specified inputs.
 
-If you do not use unit tests, then you should have some other way to test that things work as expected. For example,
-this could be a narrative of how a user could evaluate that the code runs as expected, including at least three ways to
-tell that it functions properly.
+If you do not use unit tests, then you should have some other way to test that things work as
+expected. For example, this could be a narrative of how a user could evaluate that the code runs as
+expected, including at least three ways to tell that it functions properly.
 
 ### Extra Credit (up to 5%)
 
-For extra credit, if you go above and beyond on the minimal project requirements and challenge yourself to approach a
-project that is more complex than the basic requirements, requires you to learn something beyond what was taught in the
-course, or uses code concepts not taught in class, explain this at the time of your submission. Here, you should explain
-why your approach was particularly difficult/challenging for you and how your work goes beyond the minimal project
+For extra credit, if you go above and beyond on the minimal project requirements and challenge
+yourself to approach a project that is more complex than the basic requirements, requires you to
+learn something beyond what was taught in the course, or uses code concepts not taught in class,
+explain this at the time of your submission. Here, you should explain why your approach was
+particularly difficult/challenging for you and how your work goes beyond the minimal project
 requirements.
 
 ### Run As-Is Requirement
 
-I mentioned it earlier in the "Warning" block above, but it bears repetition: above all else, Final Projects are
-required to run _as-is_ on our graders' computers. If you use _any_ packages outside of the standard library, you will
-_need_ a `requirements.txt` file that specifies the packages needed, and instructions in your documentation for any
-other particularities of your required environment setup.
+I mentioned it earlier in the "Warning" block above, but it bears repetition: above all else, Final
+Projects are required to run _as-is_ on our graders' computers. If you use _any_ packages outside of
+the standard library, you will _need_ a `requirements.txt` file that specifies the packages needed,
+and instructions in your documentation for any other particularities of your required environment
+setup.
 
 **_Any Final Project that does not run will receive zero credit._**
 
 ## External Code
 
-Your project may include external code — that can be code from the course (assignments, materials, and/or coding labs),
-code from fellow students, that you perhaps worked on together, and/or code from other sources. Note that this code is
-not considered original code for the project, and _will not be graded_. Please follow the following guidelines when
-doing so.
+Your project may include external code — that can be code from the course (assignments, materials,
+and/or coding labs), code from fellow students, that you perhaps worked on together, and/or code
+from other sources. Note that this code is not considered original code for the project, and _will
+not be graded_. Please follow the following guidelines when doing so.
 
 ### Course Code
 
-You are welcome and even expected to take code from the course, in particular code from the assignments. This does not
-need to be cited, but it also will not count as original/unique code you've written. Note that superficial code changes
-(i.e. simply changing variable/function names) do NOT count as making code unique/original.
+You are welcome and even expected to take code from the course, in particular code from the
+assignments. This does not need to be cited, but it also will not count as original/unique code
+you've written. Note that superficial code changes (i.e. simply changing variable/function names) do
+NOT count as making code unique/original.
 
 ### Code Co-Developed with Other Student(s)
 
-You may work with other students on aspects of the project, even if you are not working in a group together. For any
-code that was developed together, you can include this code in your project, and indicate that it was written together
-with another student. Note that each student will be graded primarily on the unique code that is submitted as part of
-their project.
+You may work with other students on aspects of the project, even if you are not working in a group
+together. For any code that was developed together, you can include this code in your project, and
+indicate that it was written together with another student. Note that each student will be graded
+primarily on the unique code that is submitted as part of their project.
 
 ### Third-Party Code
 
@@ -313,64 +321,70 @@ available.
 
 ### Provide Attribution
 
-Clear attribution of code is important. Including external code (including code from AI tools), that you did not write,
-but failing to indicate that is code you did not write and passing it off as your own is (and will be considered)
-plagiarism. To cite code, indicate in the docstring for the module/function/class or code segment that this code is
-external code, and include the source of the code. (More on AI in particular below.)
+Clear attribution of code is important. Including external code (including code from AI tools), that
+you did not write, but failing to indicate that is code you did not write and passing it off as your
+own is (and will be considered) plagiarism. To cite code, indicate in the docstring for the
+module/function/class or code segment that this code is external code, and include the source of the
+code. (More on AI in particular below.)
 
 ### Modified Code
 
-It may also be the case that you originally start with code from an external source, but through your project you modify
-that code — perhaps refactoring it, reorganizing the code, and/or editing and updating the code organization and
-functionality. If this is the case, also provide attribution and a link to the source, but if you significantly update
-the code organization and/or functionality (refactoring the code, and/or updating functionality more than just updating
-naming, style, and documentation), then you can and should indicate that this adapted code is to be considered part of
+It may also be the case that you originally start with code from an external source, but through
+your project you modify that code — perhaps refactoring it, reorganizing the code, and/or editing
+and updating the code organization and functionality. If this is the case, also provide attribution
+and a link to the source, but if you significantly update the code organization and/or functionality
+(refactoring the code, and/or updating functionality more than just updating naming, style, and
+documentation), then you can and should indicate that this adapted code is to be considered part of
 your graded project code.
 
 ### AI Policy
 
-It is fine to use AI tools (like ChatGPT, GitHub Copilot, etc.) to help you with your final project, but you must do so
-responsibly. These tools can be helpful for experienced programmers, but relying too heavily on them as a beginner can
-hinder your learning process. That said, here are some guidelines for using AI effectively in your project:
+It is fine to use AI tools (like ChatGPT, GitHub Copilot, etc.) to help you with your final project,
+but you must do so responsibly. These tools can be helpful for experienced programmers, but relying
+too heavily on them as a beginner can hinder your learning process. That said, here are some
+guidelines for using AI effectively in your project:
 
-- **Learning focus:** If you are struggling to understand the core concepts needed for a part of your project, try to
-  solve it yourself first before turning to AI. Practice is crucial for developing programming skills, in much the same
-  way that it is for learning an instrument. You wouldn't just watch videos on how to play guitar, for example; you need
-  to build calluses and practice playing yourself.
+- **Learning focus:** If you are struggling to understand the core concepts needed for a part of
+  your project, try to solve it yourself first before turning to AI. Practice is crucial for
+  developing programming skills, in much the same way that it is for learning an instrument. You
+  wouldn't just watch videos on how to play guitar, for example; you need to build calluses and
+  practice playing yourself.
 - **Specific questions:** LLMs are most effective when you use them for specific tasks, such as:
 
   - Debugging specific error messages
   - Understanding specific syntax or functions
-  - Exploring alternative ways to implement an idea you already understand conceptually (this can be especially useful
-    for expanding your knowledge)
+  - Exploring alternative ways to implement an idea you already understand conceptually (this can be
+    especially useful for expanding your knowledge)
   - Getting help with boilerplate code or implementation details once you already have a clear plan
 
-- **Provide context:** LLMs are most effective when you provide them with context. For example, if you are stuck on a
-  particular problem, don't just ask the AI to solve it in the vaguest way possible; provide the model with context of
-  what you are trying to achieve, the approach you are trying to take, the issues you are currently facing, and your own
-  thoughts about potential solutions. In addition, keep your questions specific and focused. Break down your problem and
-  ask targeted questions about the parts you're stuck on.
+- **Provide context:** LLMs are most effective when you provide them with context. For example, if
+  you are stuck on a particular problem, don't just ask the AI to solve it in the vaguest way
+  possible; provide the model with context of what you are trying to achieve, the approach you are
+  trying to take, the issues you are currently facing, and your own thoughts about potential
+  solutions. In addition, keep your questions specific and focused. Break down your problem and ask
+  targeted questions about the parts you're stuck on.
 
-  See ["Asking Good Questions"](ebook/CH08/8.5.%20Asking%20Good%20Questions.md) in Chapter 8 of the textbook for more on
-  the principles involved in asking for help from either humans or AI.
+  See ["Asking Good Questions"](ebook/CH08/8.5.%20Asking%20Good%20Questions.md) in Chapter 8 of the
+  textbook for more on the principles involved in asking for help from either humans or AI.
 
-- **Verify AI Output:** AI-generated code is not always correct, efficient, idiomatic, or secure. **You are responsible
-  for testing, debugging, and understanding any code you submit, regardless of its origin.** Treat AI suggestions as
-  _hints_ from the internet's collective unconscious — not as authoritative solutions to your specific problems.
+- **Verify AI Output:** AI-generated code is not always correct, efficient, idiomatic, or secure.
+  **You are responsible for testing, debugging, and understanding any code you submit, regardless of
+  its origin.** Treat AI suggestions as _hints_ from the internet's collective unconscious — not as
+  authoritative solutions to your specific problems.
 
 #### Attribution Requirements
 
-If you use an AI tool to generate code or significant ideas for your project, **you must provide attribution in your
-code via comments.**
+If you use an AI tool to generate code or significant ideas for your project, **you must provide
+attribution in your code via comments.**
 
-- For each function, method, or significant block of code generated or heavily influenced by AI, add a comment at the
-  beginning specifying:
+- For each function, method, or significant block of code generated or heavily influenced by AI, add
+  a comment at the beginning specifying:
 
   - The AI tool used (e.g., `ChatGPT 4o`, `GitHub Copilot`, `Claude 3.7 Sonnet`).
-  - An estimate of how much of that specific code block was generated by the AI (e.g., "mostly", "partially", "inspired
-    by").
-  - Optionally (but encouraged!): include a link to the conversation if the tool supports it (e.g., a link to a specific
-    ChatGPT chat transcript).
+  - An estimate of how much of that specific code block was generated by the AI (e.g., "mostly",
+    "partially", "inspired by").
+  - Optionally (but encouraged!): include a link to the conversation if the tool supports it (e.g.,
+    a link to a specific ChatGPT chat transcript).
   - Here are some examples of perfectly fine attribution:
 
 ```python
@@ -406,14 +420,16 @@ except FileNotFoundError:
 
 - You may be asked to explain any part of your submitted code during grading, in class, or in meetings. You should be
   able to explain how your code works, why you chose a particular approach, and how you tested that it works.
-- A good question you could ask yourself to test your knowledge is: "Could I reproduce this logic without the help of an
-  AI?" If the answer is "No", you are probably relying too heavily on the tool.
+- A good question you could ask yourself to test your knowledge is: "Could I reproduce this logic
+  without the help of an AI?" If the answer is "No", you are probably relying too heavily on the
+  tool.
 - If you are unable to answer questions about large swaths of your own code, and you fail to include any attribution
   comments, this would strongly indicate an academic integrity violation. (Note that there are other ways to tell if
   AI was used irresponsibly — this is just one example.)
 
-Using AI thoughtfully can enhance your project, and at its best it can help you learn more effectively and quickly. The
-ultimate goal is for _you_ to gain the skills to build whatever you please, and not to let AI do your thinking for you.
-For a cautionary fable of the dangers of overreliance on a seemingly helpful alien intelligence, see the tale of the
-[Whispering Earring](https://web.archive.org/web/20121008025245/http://squid314.livejournal.com/332946.html), and beware
-outsourcing your own capacity for thought itselfs.
+Using AI thoughtfully can enhance your project, and at its best it can help you learn more
+effectively and quickly. The ultimate goal is for _you_ to gain the skills to build whatever you
+please, and not to let AI do your thinking for you. For a cautionary fable of the dangers of
+overreliance on a seemingly helpful alien intelligence, see the tale of the
+[Whispering Earring](https://web.archive.org/web/20121008025245/http://squid314.livejournal.com/332946.html),
+and beware outsourcing your own capacity for thought itselfs.
