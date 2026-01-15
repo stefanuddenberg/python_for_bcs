@@ -42,7 +42,7 @@ Office Hours: Thursdays 1:00pm-3:00pm, Psychology 731
   - Ph.D. Student in Psychology, Attention & Perception area
   - University of Illinois at Urbana-Champaign
   - E-mail: hsankar3@illinois.edu
-  - Office Hours: TBD
+  - Office Hours: Tuesdays and Fridays 11:00am-12:00pm, Psychology 630
 
 ### Attribution
 
