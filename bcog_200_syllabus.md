@@ -27,7 +27,7 @@ Assistant Professor of Psychology\
 University of Illinois at Urbana-Champaign\
 E-mail: stefanu@illinois.edu \
 Website: https://www.socialperception.org \
-Office Hours: Thursdays 1:00pm-3:00pm, Psychology 731
+Office Hours: Thursdays 1:00pm-3:00pm, Psychology 608
 
 ### Teaching Assistants
 
