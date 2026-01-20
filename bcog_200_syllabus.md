@@ -91,10 +91,10 @@ at 11:59pm, they will not be accepted unless you have made prior arrangements.
 
 ### Homework — 30%
 
-There are four homework assignments throughout the semester, about every three weeks. The homework assignments involve
-creating a single, more complex Python program that achieves some BCOG-related goals. Homework assignments should be
-turned in each week on the course website. These homework assignments are due on Monday at 11:59pm, and 10% is
-deducted for each day they are late.
+There are four homework assignments throughout the semester, about every three weeks. The homework
+assignments involve creating a single, more complex Python program that achieves some BCOG-related
+goals. Homework assignments should be turned in via Canvas on weeks where they are due. These
+homework assignments are due on Monday at 11:59pm, and 10% is deducted for each day they are late.
 
 ### Final Project — 20%
 
@@ -283,7 +283,7 @@ Assignments:
 
 - [CH3: Functions](ebook/CH03/3.0.%20Functions.md)
 - [Lab 3](ebook/CH03/3.6.%20Lab%203.md) (due Feb 6 by 11:59 pm)
-- [Homework 1](ebook/CH03/3.7.%20Homework%203.md) (due Feb 9 by 11:59 pm)
+- [Homework 1 (for Chapter 3)](ebook/CH03/3.7.%20Homework%203.md) (due Feb 9 by 11:59 pm)
 
 ### Week 4 — Staying organized so your data can spark joy: Data structures and sequencing
 
@@ -329,7 +329,7 @@ Assignments:
 
 - [CH6: Classes and OOP](ebook/CH06/)
 - [Lab 6](ebook/CH06/6.5.%20Lab%206.md) (due Feb 27 by 11:59 pm)
-- [Homework 2](ebook/CH06/6.6.%20Homework%206.md) (due Mar 2 by 11:59 pm)
+- [Homework 2 (for Chapter 6)](ebook/CH06/6.6.%20Homework%206.md) (due Mar 2 by 11:59 pm)
 
 ### Week 7 — "Make it work, make it right, make it fast": Best practices and version control
 
@@ -411,7 +411,7 @@ Assignments:
 
 - [CH15: Data Visualization](ebook/CH15/)
 - [Lab 15](ebook/CH15/15.5.%20Lab%2015.md) (due Apr 10 by 11:59pm)
-- [Homework 3](ebook/CH15/15.6.%20Homework%2015.md) (due Apr 13 by 11:59pm)
+- [Homework 3 (for Chapter 15)](ebook/CH15/15.6.%20Homework%2015.md) (due Apr 13 by 11:59pm)
 
 ### Week 12 — Progressing projects and projecting progress
 
@@ -454,7 +454,7 @@ Assignments:
 
 - [CH20: Web Programming](ebook/CH20/)
 - [Lab 20](ebook/CH20/20.6.%20Lab%2020.md) (due May 1 by 11:59pm)
-- [Homework 4](ebook/CH20/20.7.%20Homework%2020.md) (due May 4 by 11:59pm)
+- [Homework 4 (for Chapter 20)](ebook/CH20/20.7.%20Homework%2020.md) (due May 4 by 11:59pm)
 
 ### Week 15 — It's the final countdown!
 
