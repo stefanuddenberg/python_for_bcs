@@ -484,7 +484,7 @@ Assignments:
 
 ### Week 15 — It's the final countdown!
 
-Dates: May 5
+Dates: May 5 (no class on May 7)
 
 Topics:
 
