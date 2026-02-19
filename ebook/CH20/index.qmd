@@ -1,0 +1,10 @@
+# Chapter 20 — Web Programming with FastAPI
+
+{{< include '20.0. Web Programming.md' >}}
+{{< include '20.1. Setup with uv.md' >}}
+{{< include '20.2. A Simple FastAPI App.md' >}}
+{{< include '20.3. Drafting the Survey with HTML.md' >}}
+{{< include '20.4. Modeling Survey Data with SQLModel.md' >}}
+{{< include '20.5. Setting Up the Database.md' >}}
+{{< include '20.6. Lab 20.md' >}}
+{{< include '20.7. Homework 20.md' >}}

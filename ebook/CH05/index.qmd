@@ -1,0 +1,9 @@
+# Chapter 5 — Modules and NumPy
+
+{{< include '5.0. Core Python Modules.md' >}}
+{{< include '5.1. Installing Modules with uv.md' >}}
+{{< include '5.2. Numpy.md' >}}
+{{< include '5.3. Manipulating Numpy Arrays.md' >}}
+{{< include '5.4. Numpy Operations.md' >}}
+{{< include '5.5. Image Processing.md' >}}
+{{< include '5.6. Lab 5.md' >}}

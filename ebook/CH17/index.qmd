@@ -1,0 +1,9 @@
+# Chapter 17 — Machine Learning with Scikit-Learn
+
+{{< include '17.0. Machine Learning.md' >}}
+{{< include '17.1. Two Variable Linear Regression.md' >}}
+{{< include '17.2. Multiple and Logistic Regression.md' >}}
+{{< include '17.3. Regression in sklearn.md' >}}
+{{< include '17.4. Classification in sklearn.md' >}}
+{{< include '17.5. Clustering in sklearn.md' >}}
+{{< include '17.6. Lab 17.md' >}}

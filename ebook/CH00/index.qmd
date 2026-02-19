@@ -1,0 +1,11 @@
+# Chapter 0 — Getting Started
+
+{{< include '0.0. How to Succeed.md' >}}
+{{< include '0.1. Intro to Your Computer.md' >}}
+{{< include '0.2. Terminal Crash Course.md' >}}
+{{< include '0.3. Installing a Text Editor.md' >}}
+{{< include '0.4. Installing Python.md' >}}
+{{< include '0.5. Code vs. Comments.md' >}}
+{{< include '0.6. The Interactive Shell.md' >}}
+{{< include '0.7. Jupyter Notebooks.md' >}}
+{{< include '0.8. Other Useful Tips.md' >}}

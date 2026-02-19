@@ -1,0 +1,11 @@
+# Chapter 1 — Variables, Data Types, and Conditionals
+
+{{< include '1.0. Python Statements & Expressions.md' >}}
+{{< include '1.1. Variables.md' >}}
+{{< include '1.2. Data Types.md' >}}
+{{< include '1.3. Strings.md' >}}
+{{< include '1.4. Numeric Data Types.md' >}}
+{{< include '1.5. Bool, Binary, and None Data Types.md' >}}
+{{< include '1.6. Operators.md' >}}
+{{< include '1.7. Conditionals.md' >}}
+{{< include '1.8. Lab 1.md' >}}

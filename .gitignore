@@ -109,3 +109,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+/.luarc.json
+
+# quarto
+/.quarto/
+**/*.quarto_ipynb
+_book/

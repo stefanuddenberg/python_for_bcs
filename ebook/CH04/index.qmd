@@ -1,0 +1,7 @@
+# Chapter 4 — Sets, Dictionaries, and JSON
+
+{{< include '4.0. Sets.md' >}}
+{{< include '4.1. Dictionaries.md' >}}
+{{< include '4.2. Sequence Tricks.md' >}}
+{{< include '4.3. JSON Files.md' >}}
+{{< include '4.4. Lab 4.md' >}}

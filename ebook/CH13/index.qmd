@@ -1,0 +1,9 @@
+# Chapter 13 — Building an Experiment
+
+{{< include '13.0. Creating Experiments.md' >}}
+{{< include '13.1. Describing a Sample Experiment.md' >}}
+{{< include '13.2. Creating our Project Structure.md' >}}
+{{< include '13.3. Creating the Experiment.md' >}}
+{{< include '13.4. Coding the GUI class.md' >}}
+{{< include '13.5. Coding the Exp Class.md' >}}
+{{< include '13.6. Lab 13.md' >}}

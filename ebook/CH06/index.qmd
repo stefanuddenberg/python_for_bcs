@@ -1,0 +1,10 @@
+# Chapter 6 — Classes and Object-Oriented Programming
+
+{{< include '6.0. Classes and OOP.md' >}}
+{{< include '6.1. Class Attributes.md' >}}
+{{< include '6.2. Class Methods.md' >}}
+{{< include '6.3. Class Inheritance.md' >}}
+{{< include '6.4. Data Classes.md' >}}
+{{< include '6.5. Turtle.md' >}}
+{{< include '6.6. Lab 6.md' >}}
+{{< include '6.7. Homework 6.md' >}}

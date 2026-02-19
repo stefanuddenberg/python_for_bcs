@@ -1,0 +1,6 @@
+# Chapter 14 — Data Analysis with Pandas
+
+{{< include '14.0. Data Analysis and Dataframes.md' >}}
+{{< include '14.1. Loading and Saving DataFrames.md' >}}
+{{< include '14.2. Exploring DataFrames.md' >}}
+{{< include '14.3. Pandas Operations.md' >}}

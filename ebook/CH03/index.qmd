@@ -1,0 +1,10 @@
+# Chapter 3 — Functions
+
+{{< include '3.0. Functions.md' >}}
+{{< include '3.1. Passing Arguments into Functions.md' >}}
+{{< include '3.2. Return Values.md' >}}
+{{< include '3.3. Local and Global Variables.md' >}}
+{{< include '3.4. The main() Function.md' >}}
+{{< include '3.5. An Example Program.md' >}}
+{{< include '3.6. Lab 3.md' >}}
+{{< include '3.7. Homework 3.md' >}}

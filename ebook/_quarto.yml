@@ -1,0 +1,41 @@
+project:
+  type: book
+
+book:
+  favicon: images/favicons/favicon.ico
+  title: "Introduction to Programming for the Brain and Cognitive Sciences"
+  chapters:
+    - index.md
+    - CH00/index.qmd
+    - CH01/index.qmd
+    - CH02/index.qmd
+    - CH03/index.qmd
+    - CH04/index.qmd
+    - CH05/index.qmd
+    - CH06/index.qmd
+    - CH08/index.qmd
+    - CH11/index.qmd
+    - CH13/index.qmd
+    - CH14/index.qmd
+    - CH15/index.qmd
+    - CH17/index.qmd
+    - CH18/index.qmd
+    - CH20/index.qmd
+
+format:
+  html:
+    number-sections: false
+    respect-user-color-scheme: true
+    theme:
+      light: flatly
+      dark: [darkly, styles.scss]
+    margin-header: |
+      ![BCOG 200 Logo](/images/course_logo_small.jpg)
+
+  # pdf:
+  #   number-sections: false
+
+filters:
+  - filters/github-alerts-to-callouts.lua
+  - filters/remove-github-nav.lua
+  - filters/md-link-to-chapter-anchor.lua

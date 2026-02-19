@@ -1,0 +1,9 @@
+# Chapter 15 — Data Visualization with Matplotlib
+
+{{< include '15.0. Data Visualization.md' >}}
+{{< include '15.1. Simple Line Plots.md' >}}
+{{< include '15.2. Scatterplots and Histograms.md' >}}
+{{< include '15.3. Bar Plots.md' >}}
+{{< include '15.4. Subplot Figures.md' >}}
+{{< include '15.5. Lab 15.md' >}}
+{{< include '15.6. Homework 15.md' >}}

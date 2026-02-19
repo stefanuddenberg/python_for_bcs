@@ -1,0 +1,11 @@
+# Chapter 8 — Writing Better Code
+
+{{< include '8.0. Good Programming Techniques.md' >}}
+{{< include '8.1. Style and Readability.md' >}}
+{{< include '8.2. Idiomatic Python.md' >}}
+{{< include '8.3. Debugging.md' >}}
+{{< include '8.4. Useful Techniques.md' >}}
+{{< include '8.5. Asking Good Questions.md' >}}
+{{< include '8.6. Decorators.md' >}}
+{{< include '8.7. Common Patterns.md' >}}
+{{< include '8.8. Common Pitfalls.md' >}}
