@@ -9,3 +9,6 @@ You can find the source code for this textbook, as well as the syllabus, on the
 The book itself is organized into chapters, each of which has a number of sections. You can navigate
 between chapters using the sidebar on the left, and sections using the table of contents on the
 right.
+
+This textbook was written by [Jon Willits](http://learninglanguagelab.org/)
+and [Stefan Uddenberg](https://www.socialperception.org).

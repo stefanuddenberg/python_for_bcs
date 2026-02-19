@@ -24,6 +24,20 @@ book:
     - CH17/index.qmd
     - CH18/index.qmd
     - CH20/index.qmd
+  author:
+    - name: Stefan Uddenberg
+      email: stefanu@illinois.edu
+      website: https://www.socialperception.org
+      affiliation: University of Illinois Urbana-Champaign
+      position: Assistant Professor of Psychology
+      twitter: stefanuddenberg
+      github: stefanuddenberg
+    - name: Jon Willits
+      email: jwillits@illinois.edu
+      website: http://learninglanguagelab.org/
+      affiliation: University of Illinois Urbana-Champaign
+      position: Assistant Professor of Psychology
+      github: jonwillits
 
 format:
   html:
