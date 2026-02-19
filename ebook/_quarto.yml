@@ -4,6 +4,9 @@ project:
 book:
   favicon: images/favicons/favicon.ico
   title: "Introduction to Programming for the Brain and Cognitive Sciences"
+  navbar:
+    background: primary
+    logo: images/course_logo_small.jpg
   chapters:
     - index.md
     - CH00/index.qmd
