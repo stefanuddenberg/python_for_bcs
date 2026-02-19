@@ -15,6 +15,15 @@ body.quarto-dark {
   }
 }
 
-.quarto-title-block {
+// span.chapter-title {
+//   display: none;
+// }
+
+/* Hide the "Chapter X" text at top of each chapter */
+#quarto-document-content
+  #title-block-header
+  .quarto-title
+  h1.title
+  span.chapter-title {
   display: none;
 }

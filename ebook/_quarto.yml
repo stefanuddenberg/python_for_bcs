@@ -25,6 +25,12 @@ book:
     - CH18/index.qmd
     - CH20/index.qmd
   author:
+    - name: Jon Willits
+      email: jwillits@illinois.edu
+      website: http://learninglanguagelab.org/
+      affiliation: University of Illinois Urbana-Champaign
+      position: Assistant Professor of Psychology
+      github: jonwillits
     - name: Stefan Uddenberg
       email: stefanu@illinois.edu
       website: https://www.socialperception.org
@@ -32,19 +38,13 @@ book:
       position: Assistant Professor of Psychology
       twitter: stefanuddenberg
       github: stefanuddenberg
-    - name: Jon Willits
-      email: jwillits@illinois.edu
-      website: http://learninglanguagelab.org/
-      affiliation: University of Illinois Urbana-Champaign
-      position: Assistant Professor of Psychology
-      github: jonwillits
 
 format:
   html:
     number-sections: false
     respect-user-color-scheme: true
     theme:
-      light: flatly
+      light: [flatly, styles.scss]
       dark: [darkly, styles.scss]
     margin-header: |
       ![BCOG 200 Logo](/images/course_logo_small.jpg)
