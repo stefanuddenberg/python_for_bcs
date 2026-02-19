@@ -1,11 +1,20 @@
 /*-- scss:rules --*/
 /* Dark mode: improve inline <code> contrast inside headings and callout titles */
 body.quarto-dark {
-  h1 code, h2 code, h3 code, h4 code, h5 code, h6 code,
+  h1 code,
+  h2 code,
+  h3 code,
+  h4 code,
+  h5 code,
+  h6 code,
   .callout .callout-title-container code {
     color: rgba(255, 255, 255, 0.95);
     background: rgba(255, 255, 255, 0.12);
     padding: 0.05em 0.35em;
     border-radius: 0.25em;
   }
+}
+
+.quarto-title-block {
+  display: none;
 }
