@@ -46,6 +46,9 @@ format:
     theme:
       light: [flatly, styles.scss]
       dark: [darkly, styles.scss]
+    highlight-style:
+      light: atom-one-light
+      dark: dracula
     margin-header: |
       ![BCOG 200 Logo](/images/course_logo_small.jpg)
 
