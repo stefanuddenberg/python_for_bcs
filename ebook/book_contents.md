@@ -29,7 +29,7 @@
 17. [Machine Learning](CH17/17.0.%20Machine%20Learning.md)
 18. [Natural Language Processing](CH18/18.0.%20Natural%20Language%20Processing.md)
 19. Computational Modeling
-20. Web Programming
+20. [Web Programming](CH20/20.0.%20Web%20Programming.md)
 
 ### Part 3: Computational Paradigms in Brain and Cognitive Science
 
