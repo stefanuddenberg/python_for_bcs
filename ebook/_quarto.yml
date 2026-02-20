@@ -44,7 +44,7 @@ format:
     number-sections: false
     respect-user-color-scheme: true
     theme:
-      light: [flatly, styles.scss]
+      light: [flatly-light, styles.scss]
       dark: [darkly, styles.scss]
     highlight-style:
       light: atom-one-light
