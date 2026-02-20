@@ -60,7 +60,7 @@ function BlockQuote(el)
 	-- Build Quarto-like callout header/body structure
 	local header = pandoc.Div({
 		pandoc.Div({
-			pandoc.RawInline("html", '<i class="callout-icon no-icon"></i>'),
+			pandoc.RawInline("html", '<i class="callout-icon"></i>'), -- optionally add no-icon to remove the icon
 		}, pandoc.Attr("", { "callout-icon-container" })),
 
 		pandoc.Div({
@@ -75,8 +75,7 @@ function BlockQuote(el)
 		"callout",
 		"callout-style-default",
 		"callout-" .. kind,
-		"no-icon",
-		"callout-titled",
+		"callout-titled", -- add "no-icon" to remove the callout icon
 	}
 
 	return pandoc.Div({ header, body }, pandoc.Attr("", outer_classes))
