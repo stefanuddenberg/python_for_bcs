@@ -1,4 +1,12 @@
 /*-- scss:rules --*/
+/* Dark mode: improve inline <code> contrast in the body of the text */
+body.quarto-dark :not(pre) > code {
+  color: rgba(183, 245, 230, 0.95);
+  background: rgba(255, 255, 255, 0.12);
+  padding: 0.05em 0.35em;
+  border-radius: 0.25em;
+}
+
 /* Dark mode: improve inline <code> contrast inside headings and callout titles */
 body.quarto-dark {
   h1 code,
@@ -15,10 +23,6 @@ body.quarto-dark {
   }
 }
 
-// span.chapter-title {
-//   display: none;
-// }
-
 /* Hide the "Chapter X" text at top of each chapter */
 #quarto-document-content
   #title-block-header
@@ -26,4 +30,70 @@ body.quarto-dark {
   h1.title
   span.chapter-title {
   display: none;
+}
+
+/* Make lists less cramped */
+#quarto-document-content :is(ul, ol) {
+  line-height: 1.5;
+}
+
+/* Add vertical breathing room between list items */
+#quarto-document-content :is(ul, ol) > li {
+  margin-bottom: 1em;
+}
+
+#quarto-document-content kbd {
+  font-size: 0.85em; /* smaller than surrounding text */
+  padding: 0.08em 0.38em; /* tighter padding */
+  line-height: 1.1; /* prevent tall inline boxes */
+  border-radius: 0.35em;
+  vertical-align: 0.06em; /* move keycaps slightly upward */
+  white-space: nowrap;
+}
+
+/* Dark mode: make <kbd> elements look more like keycaps */
+body.quarto-dark #quarto-document-content kbd {
+  color: rgba(255, 255, 255, 0.95);
+  background: linear-gradient(#3a4148, #24282e);
+  border-color: rgba(255, 255, 255, 0.18);
+
+  box-shadow:
+    0 1px 0 rgba(0, 0, 0, 0.85),
+    /* key "foot" */ 0 4px 10px rgba(0, 0, 0, 0.55),
+    /* softer ambient shadow */ 0 1px 0 rgba(255, 255, 255, 0.12) inset,
+    /* top highlight */ 0 -1px 0 rgba(0, 0, 0, 0.55) inset,
+    /* bottom bevel */ 0 0 0 1px rgba(255, 255, 255, 0.06); /* subtle rim to lift off bg */
+}
+
+/* Light mode: make <kbd> elements look more like keycaps */
+body:not(.quarto-dark) #quarto-document-content kbd {
+  color: rgba(0, 0, 0, 0.85);
+  background: linear-gradient(#ffffff, #eef1f4);
+  border: 1px solid rgba(0, 0, 0, 0.16);
+
+  box-shadow:
+    0 1px 0 rgba(0, 0, 0, 0.18),
+    /* key "foot" */ 0 4px 10px rgba(0, 0, 0, 0.1),
+    /* ambient shadow */ 0 1px 0 rgba(255, 255, 255, 0.95) inset,
+    /* top highlight */ 0 -1px 0 rgba(0, 0, 0, 0.12) inset,
+    /* bottom bevel */ 0 0 0 1px rgba(255, 255, 255, 0.6); /* subtle rim to lift off bg */
+}
+
+/* Provide more contrast and depth to callouts */
+/* light mode callouts */
+body:not(.quarto-dark) #quarto-document-content .callout {
+  /* make bg slightly lighter than page */
+  // background: rgba(0, 0, 0, 0.04);
+  box-shadow:
+    0 1px 0 rgba(0, 0, 0, 0.06),
+    0 10px 26px rgba(0, 0, 0, 0.1);
+}
+
+/* dark mode callouts */
+body.quarto-dark #quarto-document-content .callout {
+  /* make bg slightly lighter than page */
+  background: rgba(255, 255, 255, 0.04);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.06) inset,
+    0 10px 28px rgba(0, 0, 0, 0.55);
 }
