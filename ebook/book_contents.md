@@ -9,7 +9,7 @@
 0. [Installing and Using Python](CH00/0.0.%20Installing%20Python.md)
 1. [Basic Python Commands](CH01/1.0.%20Python%20Statements%20&%20Expressions.md)
 2. [Loops, Sequences, and IO](CH02/2.0%20The%20For%20Loop.md)
-3. [Functions](CH03/3.0%20Functions.md)
+3. [Functions](CH03/3.0.%20Functions.md)
 4. [Dictionaries and Sets](CH04/4.0.%20Sets.md)
 5. [Modules (especially Numpy)](CH05/5.0.%20Core%20Python%20Modules.md)
 6. [Classes and OOP](CH06/6.0.%20Classes%20and%20OOP.md)
