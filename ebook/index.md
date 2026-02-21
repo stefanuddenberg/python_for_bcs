@@ -12,3 +12,5 @@ right.
 
 This textbook was written by [Jon Willits](http://learninglanguagelab.org/)
 and [Stefan Uddenberg](https://www.socialperception.org).
+This online edition is adapted from
+[Stefan Uddenberg's fork](https://github.com/stefanuddenberg/python_for_bcs) of the textbook.
