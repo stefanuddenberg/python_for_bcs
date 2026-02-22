@@ -55,6 +55,9 @@ format:
   # pdf:
   #   number-sections: false
 
+execute:
+  freeze: auto
+
 filters:
   - filters/github-alerts-to-callouts.lua
   - filters/remove-github-nav.lua
