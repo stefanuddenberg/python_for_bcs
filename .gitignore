@@ -116,3 +116,4 @@ venv.bak/
 /.quarto/
 **/*.quarto_ipynb
 _book/
+_site/
