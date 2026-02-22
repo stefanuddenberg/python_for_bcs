@@ -17,8 +17,9 @@ Zoom link when strictly necessary (e.g., instructor is sick):
 ### Materials
 
 1. Course Website: https://canvas.illinois.edu
-2. [Online Textbook](ebook/book_contents.md)
-3. Course Github Page: https://github.com/stefanuddenberg/python_for_bcs
+2. [Online Textbook (Netlify edition; recommended)](https://bcog200.netlify.app)
+3. [Online Textbook (Github edition)](ebook/book_contents.md)
+4. Course Github Page: https://github.com/stefanuddenberg/python_for_bcs
 
 ### Instructor
 
