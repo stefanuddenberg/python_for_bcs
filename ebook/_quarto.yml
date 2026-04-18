@@ -42,7 +42,7 @@ book:
 format:
   html:
     mermaid:
-      theme: default
+      theme: dark
     number-sections: false
     respect-user-color-scheme: true
     theme:
