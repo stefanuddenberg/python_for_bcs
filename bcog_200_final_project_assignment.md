@@ -432,4 +432,4 @@ effectively and quickly. The ultimate goal is for _you_ to gain the skills to bu
 please, and not to let AI do your thinking for you. For a cautionary fable of the dangers of
 overreliance on a seemingly helpful alien intelligence, see the tale of the
 [Whispering Earring](https://web.archive.org/web/20121008025245/http://squid314.livejournal.com/332946.html),
-and beware outsourcing your own capacity for thought itselfs.
+and beware outsourcing your own capacity for thought itself.
