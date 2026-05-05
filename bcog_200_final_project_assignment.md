@@ -433,3 +433,49 @@ please, and not to let AI do your thinking for you. For a cautionary fable of th
 overreliance on a seemingly helpful alien intelligence, see the tale of the
 [Whispering Earring](https://web.archive.org/web/20121008025245/http://squid314.livejournal.com/332946.html),
 and beware outsourcing your own capacity for thought itself.
+
+
+## Pre-Submission Checklist
+
+### Repository
+- [ ] My repository is public, so anyone can see it if they visit the URL.
+- [ ] My repository name uses kebab case: `my-cool-project`, not `My Cool Project`.
+- [ ] My repository has ALL the files needed to run the project.
+- [ ] My repository is up-to-date; it reflects the latest version of the project.
+- [ ] My repository does not contain any unnecessary files. That means: no junk files, duplicate
+  files/folders, or old versions of files.
+
+### Required files
+- [ ] I have one documentation file, preferably called `README.md`.
+- [ ] I have at least one Python script, e.g. `my_project.py`.
+- [ ] I have a test file, ideally in a `tests/` folder.
+- [ ] If I don't have a test file, I have a narrative description of how to test the project, easily available and written in Markdown (this can be part of the README).
+- [ ] If I use external packages, I have a `requirements.txt` or `pyproject.toml` file that lists
+  all the packages I need
+
+### Code
+- [ ] My project has *at least* 3 original functions or methods.
+- [ ] My code uses appropriate variables, conditionals, loops, functions, and/or classes.
+- [ ] My code is organized into functions instead of one undifferentiated mass.
+- [ ] My project runs as is, without errors, on my computer, after having downloaded it straight
+  from Github.
+- [ ] My project runs as is, without errors, on someone else's computer, after having downloaded it
+  straight from Github.
+
+### Tests
+- [ ] I have at least 3 tests (whether automated or narrative in nature)
+- [ ] The tests check my own functions/methods.
+- [ ] The tests are easy to read.
+- [ ] I have run the tests myself, and all tests pass.
+
+## Documentation
+- [ ] My README explains what my project does.
+- [ ] My README explains what someone has to do to install my project on their own computer.
+- [ ] My README explains how to run my project.
+- [ ] My README explains how to run my tests or what my tests are.
+- [ ] My README includes examples and/or screenshots if helpful.
+- [ ] On Canvas, I identify and talk about the three functions/methods I am proudest of.
+
+## Attribution
+- [ ] I clearly mark code from assignments, other students, websites, or AI tools.
+- [ ] I can explain how my submitted code works.
