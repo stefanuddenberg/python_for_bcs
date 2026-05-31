@@ -270,6 +270,7 @@ Structurally, we will be evaluating the following criteria:
 - Uses blank lines to separate code elements and logical structure
 - Uses good indentation & spacing
 - Uses idiomatic Python (e.g., list comprehensions where appropriate, etc.)
+- Uses type hinting where appropriate
 - Has 1 statement per line, and line length is not too long (~<80 characters)
 
 In terms of naming, we will be evaluating the following criteria:
