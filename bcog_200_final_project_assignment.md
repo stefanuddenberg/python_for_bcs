@@ -82,6 +82,8 @@ The Taboo Topics for the BCOG200 final project are:
 - Pacman
 - Tower defense game
 - Stroop effect experiment
+- Very simple memory experiment
+- Very simple reaction time experiment
 - Any very minor variation of the above topics
 - Any very minor variation of code that was provided in class or in the assignments
 
