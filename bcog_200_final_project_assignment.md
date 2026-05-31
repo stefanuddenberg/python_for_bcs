@@ -82,11 +82,11 @@ The Taboo Topics for the BCOG200 final project are:
 - Pacman
 - Tower defense game
 - Stroop effect experiment
-- Very simple memory experiment (e.g., a very simple version of the list length effect)
-- Very simple reaction time experiment (e.g., testing reaction time to a stimulus that appears on
+- Simple memory experiment (e.g., a very simple version of the list length effect)
+- Simple reaction time experiment (e.g., testing reaction time to a stimulus that appears on
   screen)
-- Any very minor variation of the above topics
-- Any very minor variation of code that was provided in class or in the assignments
+- Any minor variation of the above topics
+- Any minor variation of code that was provided in class or in the assignments
 
 If you have a great or interesting idea that puts a new spin on a taboo topic, reach out to the
 Instructor and _ask_ for an exception. You'll have to explain your idea. And, if approved, you'll be
