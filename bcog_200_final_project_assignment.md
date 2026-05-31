@@ -92,6 +92,11 @@ If you have a great or interesting idea that puts a new spin on a taboo topic, r
 Instructor and _ask_ for an exception. You'll have to explain your idea. And, if approved, you'll be
 able to work on your no-longer-taboo topic of choice!
 
+For example, in the case of the "taboo" experiments listed above (toward the bottom of the list),
+the operative word causing them to be banned is "simple". So, if you really want to run a memory
+experiment, it has to be more complex than something as straightforward as the kind we did in
+Chapter 13.
+
 ## Project Scope
 
 The main goal of the project is to demonstrate that you can design and implement code to fulfill
