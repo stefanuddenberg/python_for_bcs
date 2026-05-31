@@ -336,8 +336,8 @@ NOT count as making code unique/original.
 
 You may work with other students on aspects of the project, even if you are not working in a group
 together. For any code that was developed together, you can include this code in your project, and
-indicate that it was written together with another student. Note that each student will be graded
-primarily on the unique code that is submitted as part of their project.
+indicate that it was written together with another student. The score will be given to the project
+as a whole, but individual contributions may be taken into account when grading.
 
 ### Third-Party Code
 
