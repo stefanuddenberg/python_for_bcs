@@ -341,8 +341,9 @@ as a whole, but individual contributions may be taken into account when grading.
 
 ### Third-Party Code
 
-You may include third-party code, external from the course, including demo code and available snippets of code you find
-available.
+You may include third-party code, external from the course, including demo code and available
+snippets of code you find available. However, you will need to provide attribution (as described
+below) for any code that you yourself did not write.
 
 ### Provide Attribution
 
