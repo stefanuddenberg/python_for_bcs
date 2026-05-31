@@ -33,7 +33,6 @@ Office Hours: Thursdays 1:00pm-3:00pm, Psychology 608
 ### Teaching Assistants
 
 - Siddharth Munupatrula
-
   - Ph.D. Student in Psychology, Attention & Perception area
   - University of Illinois at Urbana-Champaign
   - E-mail: munupat2@illinois.edu
@@ -238,7 +237,7 @@ skills (e.g., the terminal, Git) that can supplement the class material and offi
 
 ## 7. Class Schedule
 
-### Week 1 — "Hello, World!" Starting your Python journey.
+### Week 1 — "Hello, World!" Starting your Python journey
 
 Dates: Jan 20 & Jan 22
 
