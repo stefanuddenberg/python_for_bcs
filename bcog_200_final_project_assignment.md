@@ -488,14 +488,15 @@ overreliance on a seemingly helpful alien intelligence, see the tale of the
 - [ ] My project has _at least_ 3 original functions or methods.
 - [ ] My code uses appropriate variables, conditionals, loops, functions, and/or classes.
 - [ ] My code is organized into functions instead of one undifferentiated mass.
-- [ ] My project runs as is, without errors, on my computer, after having downloaded it straight
+- [ ] My project runs as is, without errors, on **my computer**, after having downloaded it straight
       from Github.
-- [ ] My project runs as is, without errors, on someone else's computer, after having downloaded it
+- [ ] My project runs as is, without errors, on **someone else's computer**, after having downloaded it
       straight from Github.
 
 ### Tests
 
-- [ ] I have at least 3 distinct tests (whether automated unit tests or narrative in nature)
+- [ ] I have at least 3 distinct tests (whether automated unit tests or narrative in nature). (It's
+      appropriate to have more tests if your project is more complex.)
 - [ ] The tests check my own functions/methods.
 - [ ] The tests are easy to read.
 - [ ] I have run the tests myself, and all the tests pass.
@@ -508,7 +509,8 @@ overreliance on a seemingly helpful alien intelligence, see the tale of the
 - [ ] My README explains how to run my project.
 - [ ] My README explains how to run my tests or what my tests are.
 - [ ] My README includes examples and/or screenshots if helpful.
-- [ ] On Canvas, I identify and talk about the three functions/methods I am proudest of.
+- [ ] In my README (or on Canvas), I identify and talk about the three functions/methods I am
+      proudest of.
 
 ## Attribution
 
