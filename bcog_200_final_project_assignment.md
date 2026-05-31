@@ -80,7 +80,7 @@ The Taboo Topics for the BCOG200 final project are:
 - Snake Game
 - Connect4 Game
 - Pacman
-- Tower defense
+- Tower defense game
 - Stroop effect experiment
 - Any very minor variation of the above topics
 - Any very minor variation of code that was provided in class or in the assignments
