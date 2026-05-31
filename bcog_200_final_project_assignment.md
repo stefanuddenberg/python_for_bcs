@@ -119,7 +119,8 @@ being trying to understand the complex topic you are working on, instead of focu
 directly with Python code, a simpler project topic is preferred.
 
 That being said, the project should challenge you, and should be on a similar (or greater) level of
-complexity to the homework assignments.
+complexity to the homework assignments. An overly simple project will not receive anywhere close to
+full points.
 
 ## Project Approach
 
